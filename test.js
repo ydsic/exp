@@ -1,2 +1,2 @@
 console.log('Hello Goorm');
-console.log('Hello DeepDive');
+console.log('merge');
